@@ -1,0 +1,42 @@
+//let miranha ="peter parker";
+//let numero = 999999;
+//let numero2 = "999999";
+//let idade = 17;
+//var nome = "Gabi";
+//nome = "Pedro";
+
+//const nome = "Gabi";
+//nome = "Pedro";
+
+//idade = 20;
+//idade = 21
+
+// console.log("O miranha é o " + nome + " e ele tem " + idade + " anos ")
+
+// crie 4 variaveis contendo: nome, sobrenome, idade e curso
+//Exiba no console em uma unica frase
+
+//let nome = "Gabriella "
+//let sobrenome = "de Souza"
+//let idade = 15
+//let curso = "Desenvolvimento de Java Script"
+
+//console.log(" A aluna " + nome + sobrenome + " tem " + idade + " anos " + " e faz o curso de " + curso)
+
+let nome = "Gabriella"; //string
+let peso = 68;//int
+let altura  = 1.65;//float
+let funcionario = false;//bool - true == verdadeiro ou false == falso
+
+// let cidade = null;
+// let estado;
+// console.log(typeof nome);
+// console.log(nome);
+// console.log(typeof peso);
+// console.log(typeof altura);
+// console.log(typeof funcionario);
+
+console.log("A variavel nome tem " + nome + " e é do tipo " + typeof nome);
+console.log("A variavel peso tem " + peso + " e é do tipo " + typeof peso)
+console.log("A variavel altura tem " + altura + " e é do tipo " + typeof altura)
+console.log("A variavel funcionario tem " + funcionario + " e é do tipo " + typeof funcionario)
