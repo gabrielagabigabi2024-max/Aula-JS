@@ -71,10 +71,10 @@ let idade = anoAtual - anoNascimento;
 //montando a data no formato dd/mm/aaaa
 const dataFormatada = diaNascimento + "/" + mesNascimento + "/" +  anoNascimento
 
-//Inserindo os valores nso elemntos HTML
-nomeResultado.textContent = valorNome
-dataResultado.textContent = dataFormatada
-idadeResultado.textContent = idade
+//Inserindo os valores nos elementos HTML
+nomeResultado.textContent = valorNome;
+dataResultado.textContent = dataFormatada;
+idadeResultado.textContent = idade;
 
 //Exibindo o elemento com a sinformações
 boxResultado.style.display = "block";
